@@ -8,7 +8,7 @@
             int X = 20;
             
             double Srqt = (Math.Sqrt(X));
-            Console.WriteLine("This is a SquerRoot of 20:"+ Srqt);
+            Console.WriteLine("This is a Squer Root of 20:"+ Srqt);
         }
     }
 }
